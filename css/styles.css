@@ -1,0 +1,171 @@
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  font-size: 6rem;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #66BFBF;
+  width: 30%;
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+footer {
+  background-color: #66BFBF;
+  padding: 5px;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  width: 6%;
+  border-color: #EAF6F6;
+}
+
+p {
+  font-weight: bold;
+  color: #40514E;
+  font-size: 1.2rem;
+}
+.intro {
+  width: 50%;
+  margin: 20px auto;
+}
+.end {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.anchors {
+  display: inline-block;
+  color: #11999E;
+  font-size: 1.1rem;
+  margin: 10px 20px;
+  padding-top: 20px;
+  text-decoration: none;
+}
+.anchors:hover {
+  color:#EAF6F6;
+}
+
+.cat {
+  height: 220px;
+  width: 225px;
+  border-radius: 100%;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 0;
+}
+
+.top-cloud {
+  top: 40px;
+  right: 300px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  left: 200px;
+  bottom: 250px;
+  position: absolute;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  margin: 0;
+  padding-top: 50px;
+  position: relative;
+}
+
+.middle-container {
+  padding: 40px 0;
+  line-height: 2;
+}
+
+.skillShare {
+  padding: 30px 0;
+  line-height: 2;
+  text-align: center;
+}
+
+.bottom-container {
+  padding: 40px 0;
+  line-height: 2;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+  padding: 10px;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #30E3CB 1px;
+  background: #30E3CB;
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.skillImages {
+  padding: 75px 100px;
+}
+.compP {
+  width: 50%;
+  margin: 0 auto;
+}
+.chilliP {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.chilli {
+  height: 200px;
+  width: 205px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 50px;
+}
+
+.computer {
+  height: 200px;
+  width: 205px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 50px;
+}
+
+.greeting {
+  font-family: 'Poppins', sans-serif;
+  color: #66BFBF;
+  font-size: 1.5rem;
+}
+
+.pro {
+  text-decoration: underline;
+}
